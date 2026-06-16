@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.example.AppTest" time="0.005" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.example.AppTest" time="0.01" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="21"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -12,7 +12,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-21-openjdk-arm64/lib"/>
-    <property name="sun.java.command" value="/home/dheeraj/immutable89/target/surefire/surefirebooter11449262255594397895.jar /home/dheeraj/immutable89/target/surefire 2026-06-16T18-18-51_053-jvmRun1 surefire440074758692230493tmp surefire_012036871496795861749tmp"/>
+    <property name="sun.java.command" value="/home/dheeraj/immutable89/target/surefire/surefirebooter16930490094661664654.jar /home/dheeraj/immutable89/target/surefire 2026-06-16T18-26-28_864-jvmRun1 surefire4057643214460074071tmp surefire_03930030798238585284tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/home/dheeraj/immutable89/target/test-classes:/home/dheeraj/immutable89/target/classes:/home/dheeraj/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:/home/dheeraj/.m2/repository/com/google/guava/guava/33.4.0-jre/guava-33.4.0-jre.jar:/home/dheeraj/.m2/repository/com/google/guava/failureaccess/1.0.2/failureaccess-1.0.2.jar:/home/dheeraj/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/home/dheeraj/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/home/dheeraj/.m2/repository/org/checkerframework/checker-qual/3.43.0/checker-qual-3.43.0.jar:/home/dheeraj/.m2/repository/com/google/errorprone/error_prone_annotations/2.36.0/error_prone_annotations-2.36.0.jar:/home/dheeraj/.m2/repository/com/google/j2objc/j2objc-annotations/3.0.0/j2objc-annotations-3.0.0.jar:/home/dheeraj/.m2/repository/commons-io/commons-io/2.18.0/commons-io-2.18.0.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -27,7 +27,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
-    <property name="surefire.real.class.path" value="/home/dheeraj/immutable89/target/surefire/surefirebooter11449262255594397895.jar"/>
+    <property name="surefire.real.class.path" value="/home/dheeraj/immutable89/target/surefire/surefirebooter16930490094661664654.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="21.0.10+7-Ubuntu-124.04"/>
     <property name="user.name" value="dheeraj"/>
